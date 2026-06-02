@@ -121,3 +121,10 @@ This project helped me understand:
 * Gradio Application Development
 * Hugging Face Deployment
 * Multimodal AI Applications
+
+<h2>Generated Outputs</h2>
+
+<p align="center">
+  <img src="story_line.png" width="45%">
+  <img src="story_to_visual.png" width="45%">
+</p>
