@@ -78,19 +78,7 @@ A short three-paragraph adventure story.
 * Scene 2 illustration
 * Scene 3 illustration
 
-## Screenshots
 
-### Generated Scene 1
-
-(Add image here)
-
-### Generated Scene 2
-
-(Add image here)
-
-### Generated Scene 3
-
-(Add image here)
 
 ## Installation
 
@@ -122,6 +110,7 @@ This project helped me understand:
 * Hugging Face Deployment
 * Multimodal AI Applications
 
+## Screenshots
 <h2>Generated Outputs</h2>
 
 <p align="center">
